@@ -7,3 +7,8 @@ but it is easy to modify the code and apply
 just run sizedist2
 
 others are archived codes for other files
+
+contributor:
+[Young](mailto:Sydg0705@icloud.com)
+[@RowDM](https://github.com/RowDM)
+[Shem](mailto:shemlawalata@gmail.com)
